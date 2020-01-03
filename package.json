@@ -1,5 +1,5 @@
 {
-  "name": "@beyonk/svelte-mapbox",
+  "name": "@crylion/svelte-mapbox",
   "svelte": "src/components.js",
   "module": "index.mjs",
   "main": "index.mjs",
